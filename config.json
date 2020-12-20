@@ -11,12 +11,12 @@
   ],
   "Cats": [
     {
-      "height": 1350,
-      "compressed_path": "./photos/Cats/Untitled_Artwork 13.min.jpg",
-      "width": 1080,
+      "height": 3000,
+      "compressed_path": "./photos/Cats/IMG_0850.min.jpg",
+      "width": 3000,
       "compressed": false,
-      "placeholder_path": "./photos/Cats/Untitled_Artwork 13.placeholder.jpg",
-      "path": "./photos/Cats/Untitled_Artwork 13.jpg"
+      "placeholder_path": "./photos/Cats/IMG_0850.placeholder.jpg",
+      "path": "./photos/Cats/IMG_0850.jpg"
     }
   ]
 }
