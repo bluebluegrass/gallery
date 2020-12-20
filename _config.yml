@@ -3,10 +3,10 @@
 #############################
 
 # The title that appears on the tab
-title: Doodle
+title: 100 Days of Cats
 
 # The title on the web page
-full_name: Doodle
+full_name: 100 Days of Cats Doodle
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -36,16 +36,16 @@ instagram: sim_doodle
 ######################
 #
 # Name of your gallery (this will show up at the top of your page and in the RSS feed)
-name: 100daysofdoodle
+name: 100daysofcats
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Doodling Portfolio
+description: My collection of 100 days of Cats challenge
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: sim_doodle
 
 # Your email if you want it to be linked on the contact page
-author_email: andzhng@gmail.com
+author_email: 
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
