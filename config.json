@@ -1,14 +1,5 @@
 {
-  "Doodles": [
-    {
-      "height": 1350,
-      "compressed_path": "./photos/Doodles/Untitled_Artwork.min.jpg",
-      "width": 1080,
-      "compressed": false,
-      "placeholder_path": "./photos/Doodles/Untitled_Artwork.placeholder.jpg",
-      "path": "./photos/Doodles/Untitled_Artwork.jpg"
-    }
-  ],
+
   "Cats": [
     {
       "height": 1350,
@@ -17,6 +8,16 @@
       "compressed": false,
       "placeholder_path": "./photos/Cats/IMG_0870.placeholder.jpg",
       "path": "./photos/Cats/IMG_0870.jpg"
+    }
+  ],
+    "Doodles": [
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Doodles/Untitled_Artwork.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Doodles/Untitled_Artwork.placeholder.jpg",
+      "path": "./photos/Doodles/Untitled_Artwork.jpg"
     }
   ]
 }
