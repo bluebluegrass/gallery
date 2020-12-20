@@ -1,5 +1,424 @@
 {
-  "Doodles": [
+  
+  "Cats": [
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 17.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 17.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 17.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 29.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 29.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 29.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 28.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 28.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 28.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 38.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 38.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 38.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 39.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 39.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 39.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 61.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 61.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 61.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 49.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 49.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 49.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 48.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 48.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 48.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 60.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 60.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 60.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 62.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 62.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 62.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 63.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 63.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 63.jpg"
+    },
+    {
+      "height": 2064,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 67.min.jpg",
+      "width": 1656,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 67.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 67.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 66.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 66.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 66.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 58.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 58.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 58.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 64.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 64.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 64.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 65.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 65.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 65.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 59.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 59.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 59.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 54.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 54.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 54.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 40.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 40.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 40.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 68.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 68.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 68.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 41.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 41.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 41.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 55.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 55.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 55.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 43.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 43.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 43.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 57.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 57.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 57.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 56.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 56.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 56.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 42.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 42.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 42.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 46.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 46.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 46.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 52.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 52.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 52.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 53.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 53.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 53.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 47.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 47.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 47.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 51.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 51.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 51.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 45.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 45.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 45.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 44.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 44.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 44.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 50.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 50.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 50.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 37.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 37.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 37.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 23.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 23.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 23.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 22.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 22.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 22.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 36.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 36.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 36.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 20.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 20.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 20.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 34.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 34.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 34.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 35.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 35.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 35.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 21.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 21.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 21.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 19.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 19.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 19.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 25.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 25.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 25.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 31.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 31.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 31.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 30.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 30.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 30.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 24.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 24.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 24.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 18.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 18.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 18.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 32.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 32.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 32.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 26.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 26.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 26.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 27.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 27.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 27.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/Untitled_Artwork 33.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/Untitled_Artwork 33.placeholder.jpg",
+      "path": "./photos/Cats/Untitled_Artwork 33.jpg"
+    }
+  ],
+"Doodles": [
     {
       "height": 1350,
       "compressed_path": "./photos/Doodles/Untitled_Artwork.min.jpg",
@@ -7,16 +426,6 @@
       "compressed": false,
       "placeholder_path": "./photos/Doodles/Untitled_Artwork.placeholder.jpg",
       "path": "./photos/Doodles/Untitled_Artwork.jpg"
-    }
-  ],
-  "Cats": [
-    {
-      "height": 3000,
-      "compressed_path": "./photos/Cats/IMG_0850.min.jpg",
-      "width": 3000,
-      "compressed": false,
-      "placeholder_path": "./photos/Cats/IMG_0850.placeholder.jpg",
-      "path": "./photos/Cats/IMG_0850.jpg"
     }
   ]
 }
