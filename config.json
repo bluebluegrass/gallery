@@ -9,5 +9,14 @@
       "path": "./photos/Doodles/Untitled_Artwork.jpg"
     }
   ],
-  "Cats": []
+  "Cats": [
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Cats/IMG_0870.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Cats/IMG_0870.placeholder.jpg",
+      "path": "./photos/Cats/IMG_0870.jpg"
+    }
+  ]
 }
